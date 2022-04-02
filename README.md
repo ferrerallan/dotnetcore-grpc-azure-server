@@ -1,5 +1,5 @@
 # dotnetcore-grpc-azure-server
-Projects of server side that send a big file
+Project of server side that send a big file
 
 # Requirements
 - You need a free Azure account. 
