@@ -1,5 +1,6 @@
 # dotnetcore-grpc-azure-server
 Project of server side that send a big file
+- It downloads a big csv file from azure and transfer to the client
 
 # Requirements
 - You need a free Azure account. 
